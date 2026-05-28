@@ -1,28 +1,22 @@
-# Ritik Raj
+# Hey, I'm Ritik Raj 👋
 
-Backend-focused Software Engineer building distributed systems,
-asynchronous workflows, and scalable backend infrastructure.
+Backend-focused developer passionate about distributed systems, async workflows, and scalable backend architecture.
 
 ## Tech Stack
-Java • Spring Boot • PostgreSQL • Redis • Kafka • Docker
+```txt
+Java • Spring Boot • PostgreSQL • Redis • Docker
+```
 
-## Current Focus
-- Distributed systems
-- Queue orchestration
-- Concurrency
-- Backend scalability
-- System design
+## Currently Working On
+- Distributed job orchestration systems
+- Queue-based workflow engines
+- Backend scalability & concurrency
+- Event-driven architecture
 
-## Featured Projects
-### Relay — Distributed Job Orchestration Platform
-- Retry workflows
-- Delayed jobs
-- Priority queues
-- Distributed locking
-- Dead-letter queues
-- Worker coordination
-
-[GitHub Repo](...)
+## Featured Project
+### Relay Orchestrator
+A distributed backend platform for asynchronous job execution, retry workflows, delayed scheduling, and worker coordination.
 
 ## Connect
-Email: ...
+- LinkedIn: linkedin.com/in/ritik-raj
+- Email: ritikrajvi@gmail.com
