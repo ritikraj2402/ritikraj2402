@@ -18,5 +18,5 @@ Java • Spring Boot • PostgreSQL • Redis • Docker
 A distributed backend platform for asynchronous job execution, retry workflows, delayed scheduling, and worker coordination.
 
 ## Connect
-- LinkedIn: linkedin.com/in/ritik-raj
+- LinkedIn: [linkedin.com/in/ritik-raj](https://www.linkedin.com/in/ritik-raj-4869762b5/)
 - Email: ritikrajvi@gmail.com
