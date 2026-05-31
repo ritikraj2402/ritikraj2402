@@ -4,7 +4,7 @@ Backend-focused developer passionate about distributed systems, async workflows,
 
 ## Tech Stack
 ```txt
-Java • Spring Boot • PostgreSQL • Redis • Docker
+Java • Spring Boot • PostgreSQL • Redis • Docker * Kubernetics
 ```
 
 ## Currently Working On
